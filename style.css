@@ -7,3 +7,34 @@
   display: table;
   clear: both;
 }
+img {
+    width: 300px;
+    height: 250px;  
+}
+h1{
+    font-family:sans-serif;
+    color:crimson;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: darkgreen;
+    font-weight: bold;
+}
+ul{
+    color:darkorchid;
+    font-style:italic;
+}
+body{
+    background-color: beige;
+}
+a:link{
+    color:black;
+}
+a:hover{
+    color:floralwhite;
+}
+a:visited{
+    color:dimgray;
+}
